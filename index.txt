@@ -1,0 +1,7 @@
+Welcome to Flatiron School.
+Flatiron School has been building tech talent since 2012.
+Our courses include:
+Software Engineering
+Cybersecurity
+Data Science 
+Product Design
